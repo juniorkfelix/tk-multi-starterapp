@@ -3,7 +3,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Linting](https://img.shields.io/badge/PEP8%20by-Hound%20CI-a873d1.svg)](https://houndci.com)
 
-# Welcome to the ShotGrid Pipeline Toolkit Starter App!
+# Welcome to the ShotGrid Pipeline Toolkit Starter App!.
 
 This app serves as a quick way to get started when doing Toolkit App development.
 If you want to get up and running quickly, follow these simple steps:
